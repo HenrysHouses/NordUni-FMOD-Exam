@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{52d88f7c-b21f-4a90-b22e-befbead137f2}">
+		<property name="name">
+			<value>Thrust Force</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1a139a41-a554-4b82-8506-ba8f47cfa996}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d43ede47-081b-4756-a25a-337ff0e13417}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d43ede47-081b-4756-a25a-337ff0e13417}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

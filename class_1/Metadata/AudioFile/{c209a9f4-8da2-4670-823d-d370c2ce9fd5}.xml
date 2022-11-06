@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c209a9f4-8da2-4670-823d-d370c2ce9fd5}">
+		<property name="assetPath">
+			<value>Dialog/FemaleHero/ESM_Character_Kimberly_Go_For_It_3_Female_DJ_Teen_Young_Girl.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.7651041666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bdead0e8-a4a5-4374-b39b-4c32ed246587}</destination>
+		</relationship>
+	</object>
+</objects>

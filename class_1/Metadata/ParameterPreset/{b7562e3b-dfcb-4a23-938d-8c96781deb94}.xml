@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b7562e3b-dfcb-4a23-938d-8c96781deb94}">
+		<property name="name">
+			<value>ChangeGear</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1a139a41-a554-4b82-8506-ba8f47cfa996}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7cfd53bf-a027-4040-ad92-a0f9d28a8db3}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7cfd53bf-a027-4040-ad92-a0f9d28a8db3}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>DOWN</value>
+			<value>None</value>
+			<value>UP</value>
+			<value>ShouldGearUp</value>
+			<value>ShouldGearDown</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

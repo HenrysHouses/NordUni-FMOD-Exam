@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{2ba49e14-e07b-4269-87f1-47d1813634df}">
+		<property name="name">
+			<value>Traffic Ammount</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1a139a41-a554-4b82-8506-ba8f47cfa996}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2f5880a4-517e-4782-b0a9-ee2539ca72ea}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2f5880a4-517e-4782-b0a9-ee2539ca72ea}">
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<relationship name="automators">
+			<destination>{a65a3455-d1fa-415e-ab17-7189b6707cd1}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{a65a3455-d1fa-415e-ab17-7189b6707cd1}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>cursorPosition</value>
+		</property>
+	</object>
+</objects>

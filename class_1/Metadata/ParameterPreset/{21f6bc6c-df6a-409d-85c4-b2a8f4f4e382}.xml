@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{21f6bc6c-df6a-409d-85c4-b2a8f4f4e382}">
+		<property name="name">
+			<value>LightSpeed</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1a139a41-a554-4b82-8506-ba8f47cfa996}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{295e5522-dd32-4aae-bba2-f60c41eefd2b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{295e5522-dd32-4aae-bba2-f60c41eefd2b}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>OFF</value>
+			<value>ON</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

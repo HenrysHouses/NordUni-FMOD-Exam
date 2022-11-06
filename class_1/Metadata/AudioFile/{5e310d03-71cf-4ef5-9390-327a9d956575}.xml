@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5e310d03-71cf-4ef5-9390-327a9d956575}">
+		<property name="assetPath">
+			<value>Dialog/FemaleHero/ESM_Character_Kimberly_Its_Locked_3_Female_DJ_Teen_Young_Girl.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.93437499999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bdead0e8-a4a5-4374-b39b-4c32ed246587}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{39580779-83e1-4f7d-a0e2-6867d25be2fa}">
+		<property name="assetPath">
+			<value>Music/.DS_Store</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bdead0e8-a4a5-4374-b39b-4c32ed246587}</destination>
+		</relationship>
+	</object>
+</objects>

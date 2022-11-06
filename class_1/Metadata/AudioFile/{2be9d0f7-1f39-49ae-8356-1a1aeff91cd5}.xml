@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2be9d0f7-1f39-49ae-8356-1a1aeff91cd5}">
+		<property name="assetPath">
+			<value>Ambiences/AMBX_Forest_Day.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>256.048</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bdead0e8-a4a5-4374-b39b-4c32ed246587}</destination>
+		</relationship>
+	</object>
+</objects>

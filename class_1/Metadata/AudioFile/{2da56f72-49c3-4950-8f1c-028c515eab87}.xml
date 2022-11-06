@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2da56f72-49c3-4950-8f1c-028c515eab87}">
+		<property name="assetPath">
+			<value>Music/MUS_Scene1_100BPM_BassSeq.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>43.258775510204082</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bdead0e8-a4a5-4374-b39b-4c32ed246587}</destination>
+		</relationship>
+	</object>
+</objects>

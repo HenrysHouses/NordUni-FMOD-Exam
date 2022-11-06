@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{aa6fb126-4bea-4660-ba4c-a36c3a8b95eb}">
+		<property name="name">
+			<value>Typing_Speed</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1a139a41-a554-4b82-8506-ba8f47cfa996}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e8a4dff2-c215-4b59-9f88-91e2d89e102d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e8a4dff2-c215-4b59-9f88-91e2d89e102d}">
+		<property name="minimum">
+			<value>0.14999999999999999</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>1.075</value>
+		</property>
+	</object>
+</objects>

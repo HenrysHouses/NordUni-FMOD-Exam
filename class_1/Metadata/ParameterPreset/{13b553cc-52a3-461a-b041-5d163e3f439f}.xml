@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{13b553cc-52a3-461a-b041-5d163e3f439f}">
+		<property name="name">
+			<value>Clicking_Speed</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1a139a41-a554-4b82-8506-ba8f47cfa996}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7aacc52e-f666-47bf-be5f-18f9e9fa47b3}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7aacc52e-f666-47bf-be5f-18f9e9fa47b3}">
+		<property name="minimum">
+			<value>0.14999999999999999</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>1.075</value>
+		</property>
+	</object>
+</objects>

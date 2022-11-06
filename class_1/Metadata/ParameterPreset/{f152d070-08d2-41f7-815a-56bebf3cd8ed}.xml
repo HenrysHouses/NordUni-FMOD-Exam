@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{f152d070-08d2-41f7-815a-56bebf3cd8ed}">
+		<property name="name">
+			<value>Lightning_Ammount</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1a139a41-a554-4b82-8506-ba8f47cfa996}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3a602b82-dc3b-484b-9ee7-9f07c7a03e57}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3a602b82-dc3b-484b-9ee7-9f07c7a03e57}">
+		<property name="minimum">
+			<value>0.10000000000000001</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0.19500000000000001</value>
+		</property>
+	</object>
+</objects>

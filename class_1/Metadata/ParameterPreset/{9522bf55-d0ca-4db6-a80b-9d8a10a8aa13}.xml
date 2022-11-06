@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{9522bf55-d0ca-4db6-a80b-9d8a10a8aa13}">
+		<property name="name">
+			<value>Vehicle_Health</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1a139a41-a554-4b82-8506-ba8f47cfa996}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c81af1ba-b6d4-4d19-9cdf-9d5787f92ae0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c81af1ba-b6d4-4d19-9cdf-9d5787f92ae0}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>100</value>
+		</property>
+	</object>
+</objects>
